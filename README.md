@@ -1,5 +1,9 @@
 # Multi-currency MRR (Stripe)
 
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-App%20Router-black)](https://nextjs.org/)
+[![Stripe](https://img.shields.io/badge/Stripe-API-635bff)](https://stripe.com/)
+
 Built in-house at laudos.ai and now open-sourced.
 
 A small Next.js (App Router) dashboard that:
